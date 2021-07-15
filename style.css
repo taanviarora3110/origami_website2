@@ -1,0 +1,111 @@
+.header{
+    padding-left: 300px;
+    padding-right: 300px;
+   font-style: italic;
+   flex: auto;
+   font: 100;
+   position: relative;
+   text-align: center;
+}
+
+
+
+.item{
+    text-align: center;
+}
+
+.Camel{
+text-align: center;
+flex-wrap: inherit;
+}
+.Teddy{
+    text-align: center;
+    }
+.Panda{
+        text-align: center;
+        }
+.Cicada{
+            text-align: center;
+            }
+.Pigeon{
+                text-align: center;
+                }
+ .Chameleon{
+                    text-align: center;
+                    }
+h1{
+    color: rgb(54, 14, 175);
+    border: 6px solid rgb(243, 246, 244);
+   background-color: rgb(69, 189, 193);
+}
+body{
+    background-color: rgb(211, 87, 203);
+  
+}
+img{
+    border:8px solid rgb(242, 237, 237);
+    border-radius: 40px;
+    background-color:rgb(12, 12, 12);
+   
+    
+}
+.Camel:hover img{
+    opacity: 0.5;
+}
+.Chameleon:hover img{
+    opacity: 0.5;
+}
+.Cicada:hover img{
+    opacity: 0.5;
+}
+.Panda:hover img{
+    opacity: 0.5;
+}
+.Pigeon:hover img{
+    opacity: 0.5;
+}
+.Teddy:hover img{
+    opacity: 0.5;
+}
+p{
+    font-family:cursive;
+    font-weight: lighter;
+    font-size: large;
+    text-align: center;
+  
+}
+ul{
+font-style: oblique;
+text-align: center;
+
+}
+li{
+    color: cornsilk;
+    text-align: center;
+}
+li{
+    text-align: center;
+   align-content: center;
+}
+h2{
+    color: cornsilk;
+    text-align: center;
+}
+a:link{
+    color:tomato;
+    
+
+}
+a:visited{
+    color:tomato;
+}
+p,i {
+    color:red;
+    font-size:x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    } 
+    .para{
+        text-align:center;
+    }
+   
